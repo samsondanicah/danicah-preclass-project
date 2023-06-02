@@ -6,4 +6,4 @@ def is_adult?(age)
   end
 end
 
-p is_adult?(23)
+p is_adult?(21)
