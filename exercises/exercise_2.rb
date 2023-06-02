@@ -4,6 +4,6 @@ def is_adult?(age)
   else
     return 'not adult'
   end
-endgit
+end
 
 p is_adult?(23)
